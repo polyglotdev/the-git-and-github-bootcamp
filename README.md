@@ -283,3 +283,7 @@ The `.git` folder is where Git stores all the information about your repository,
 The is a book called Pro Git that is available for free online. It is a great resource for learning Git. You can find it [here](https://git-scm.com/book/en/v2).
 
 In the docs you will find examples of how to use Git, explanations of the different commands, and tips for working with Git.
+
+## Keeping Your Commits Atomic
+
+When you are working on a feature or a bug fix, it is important to keep your commits atomic. This means that each commit should represent a single change to the codebase. This makes it easier to track changes, revert to previous stages, and collaborate with other developers.
