@@ -50,3 +50,16 @@ Git helps us:
 - It was created to manage the Linux kernel
 - It is now the most popular version control system in the world
 - It is open source and free
+
+## Git Installation
+
+[Git Installation](https://git-scm.com/downloads)
+
+## Git Configuration
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email """
+```
+
+[Install GitKraken](https://www.gitkraken.com/)
