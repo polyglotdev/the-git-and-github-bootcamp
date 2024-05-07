@@ -75,3 +75,7 @@ The official Git source code explains a couple different meanings for the name, 
 - "global information tracker": you're in a good mood, and it actually works for you. Angels sing, and a light suddenly fills the room
 - stupid. contemptible and despicable. simple.
 - *God damn idiotic truckload of sh*t\*
+
+## Git != GitHub
+
+Git is a version control system that allows you to track changes in your codebase, collaborate with other developers, and revert to previous stages. GitHub is a platform that allows you to store your Git repositories in the cloud, collaborate with other developers, and deploy your code to the web.
