@@ -123,3 +123,14 @@ A repository is a folder that contains your project files. It is where you store
 ## Mysterious `.git` Folder
 
 The `.git` folder is where Git stores all the information about your repository, including the commit history, branches, tags, and configuration settings. It is hidden by default, but you can view it by running `ls -a` in the terminal.
+
+## Commit Workflow
+
+1. Make changes to your codebase
+2. Add the changes to the staging area
+3. Commit the changes to the repository
+4. Repeat
+5. Push the changes to a remote repository
+6. Collaborate with other developers
+7. Deploy your code to the web
+8. Repeat
