@@ -32,3 +32,14 @@
 Git is a distributed version control system that allows you to track changes in your codebase, revert to previous stages, work on different branches, and collaborate with other developers.
 
 [Git](https://git-scm.com/)
+
+## Visualizing Git
+
+[Visualizing Git](https://git-school.github.io/visualizing-git/)
+
+Git helps us:
+- track changes
+- collaborate with others
+- work on different branches
+- revert to previous stages
+- and much more
