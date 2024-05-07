@@ -26,3 +26,9 @@
 ## Section 2
 
 [Link to Section 2 artifacts](https://www.canva.com/design/DAEQbZDcRTs/eoJbTLVE8BolmKIyFjGByQ/view?utm_content=DAEQbZDcRTs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+## What is Git?
+
+Git is a distributed version control system that allows you to track changes in your codebase, revert to previous stages, work on different branches, and collaborate with other developers.
+
+[Git](https://git-scm.com/)
