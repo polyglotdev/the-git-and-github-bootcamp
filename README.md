@@ -281,3 +281,5 @@ The `.git` folder is where Git stores all the information about your repository,
 [Git Docs](https://git-scm.com/doc)
 
 The is a book called Pro Git that is available for free online. It is a great resource for learning Git. You can find it [here](https://git-scm.com/book/en/v2).
+
+In the docs you will find examples of how to use Git, explanations of the different commands, and tips for working with Git.
