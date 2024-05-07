@@ -275,3 +275,9 @@ The `.git` folder is where Git stores all the information about your repository,
 6. Collaborate with other developers
 7. Deploy your code to the web
 8. Repeat
+
+## Git Docs
+
+[Git Docs](https://git-scm.com/doc)
+
+The is a book called Pro Git that is available for free online. It is a great resource for learning Git. You can find it [here](https://git-scm.com/book/en/v2).
