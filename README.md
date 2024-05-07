@@ -287,3 +287,7 @@ In the docs you will find examples of how to use Git, explanations of the differ
 ## Keeping Your Commits Atomic
 
 When you are working on a feature or a bug fix, it is important to keep your commits atomic. This means that each commit should represent a single change to the codebase. This makes it easier to track changes, revert to previous stages, and collaborate with other developers.
+
+## Commit Messages: Present Tense or Past Tense
+
+The documentation for Git uses the present tense for commit messages. This is because the commit message is a command that tells Git what to do. For example, "Add a new feature" or "Fix a bug". However, some developers prefer to use the past tense for commit messages. This is a matter of personal preference, so choose the style that works best for you.
