@@ -83,3 +83,44 @@ Git is a version control system that allows you to track changes in your codebas
 ## Repositories
 
 A repository is a folder that contains your project files. It is where you store your codebase, track changes, and collaborate with other developers.
+
+## Commands
+
+- `git init` - initializes a new Git repository
+- `git status` - shows the status of your repository
+- `git add` - adds files to the staging area
+- `git commit` - commits files to the repository
+- `git log` - shows the commit history
+- `git checkout` - switches branches
+- `git branch` - shows the branches in your repository
+- `git merge` - merges branches together
+- `git push` - pushes changes to a remote repository
+- `git pull` - pulls changes from a remote repository
+- `git clone` - clones a repository from a remote server
+- `git remote` - shows the remote repositories
+- `git fetch` - fetches changes from a remote repository
+- `git diff` - shows the differences between commits
+- `git stash` - stashes changes in the working directory
+- `git clean` - cleans untracked files from the working directory
+- `git reset` - resets the repository to a previous state
+- `git revert` - reverts a commit
+- `git rebase` - rebases a branch onto another branch
+- `git tag` - tags a commit
+- `git reflog` - shows the reflog
+- `git config` - shows the configuration settings
+- `git remote add` - adds a remote repository
+- `git remote remove` - removes a remote repository
+- `git remote rename` - renames a remote repository
+- `git remote set-url` - sets the URL of a remote repository
+- `git remote show` - shows information about a remote repository
+- `git remote prune` - prunes stale remote-tracking branches
+- `git remote update` - updates the remote-tracking branches
+- `git remote set-head` - sets the default branch of a remote repository
+- `git remote set-branches` - sets the branches to be fetched from a remote repository
+- `git remote set-url` - sets the URL of a remote repository
+- `git remote set-url --push` - sets the push URL of a remote repository
+
+## Mysterious `.git` Folder
+
+The `.git` folder is where Git stores all the information about your repository, including the commit history, branches, tags, and configuration settings. It is hidden by default, but you can view it by running `ls -a` in the terminal.
+
