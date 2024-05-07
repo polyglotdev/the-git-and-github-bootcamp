@@ -38,6 +38,7 @@ Git is a distributed version control system that allows you to track changes in 
 [Visualizing Git](https://git-school.github.io/visualizing-git/)
 
 Git helps us:
+
 - track changes
 - collaborate with others
 - work on different branches
@@ -63,3 +64,14 @@ git config --global user.email """
 ```
 
 [Install GitKraken](https://www.gitkraken.com/)
+
+## Behind The Name
+
+Torvalds referred to Git as the "stupid content tracker" and the name "Git" is a British slang term for "unpleasant person".
+
+The official Git source code explains a couple different meanings for the name, depending on your mood:
+
+- random three-letter combination that is pronounceable, and not actually meaningful
+- "global information tracker": you're in a good mood, and it actually works for you. Angels sing, and a light suddenly fills the room
+- stupid. contemptible and despicable. simple.
+- *God damn idiotic truckload of sh*t\*
