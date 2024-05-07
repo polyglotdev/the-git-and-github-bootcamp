@@ -79,3 +79,7 @@ The official Git source code explains a couple different meanings for the name, 
 ## Git != GitHub
 
 Git is a version control system that allows you to track changes in your codebase, collaborate with other developers, and revert to previous stages. GitHub is a platform that allows you to store your Git repositories in the cloud, collaborate with other developers, and deploy your code to the web.
+
+## Repositories
+
+A repository is a folder that contains your project files. It is where you store your codebase, track changes, and collaborate with other developers.
