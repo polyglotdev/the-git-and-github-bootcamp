@@ -43,3 +43,10 @@ Git helps us:
 - work on different branches
 - revert to previous stages
 - and much more
+
+## Git History
+
+- Git was created by Linus Torvalds in 2005
+- It was created to manage the Linux kernel
+- It is now the most popular version control system in the world
+- It is open source and free
